@@ -6,3 +6,6 @@
 4. Run `npm i`
 5. Run `docker-compose up --build` whenver you want to start the server
 6. You can push to fly.io using `flyctl deploy`
+
+# Link to main application
+[Praktyk Repo](https://github.com/Syntax-Sorcerers-Group/praktyk)
