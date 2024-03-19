@@ -8,4 +8,4 @@
 6. You can push to fly.io using `flyctl deploy`
 
 # Link to main application
-[Praktyk Repo](https://github.com/Syntax-Sorcerers-Group/praktyk)
+[Praktyk Repo](https://github.com/SuperSayf/praktyk/tree/main)
